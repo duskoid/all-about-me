@@ -1,5 +1,5 @@
 # Landing Page {.unnumbered}
 
-![Welcome!](images/AZRL.png){width=100%}
+![Welcome](images/AZRL.png){width=100%}
 
-Halo, saya Rafi Putra Nugraha, panggil saja PN (peen). Saya adalah seorang mahasiswa S1 tahun ke-2.
+Sa
