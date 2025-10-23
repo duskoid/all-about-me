@@ -60,4 +60,4 @@ Saran: Buat kesimpulan akhir yang menegaskan “pesan utama” agar pembaca muda
 * **UTS-4:**5**
 * **UTS-5:**4.5**
 
-CSV lengkap sudah saya siapkan untuk dokumentasi dan olah lanjut: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
+CSV lengkap sudah saya siapkan untuk dokumentasi dan olah lanjut: [Download CSV ringkasan](ringkasan_skor_UTS.csv).
