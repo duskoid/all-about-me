@@ -2,7 +2,7 @@
 
 > **Tujuan:** Merangkum rancangan diri (charter) agar saya melayani, berkarya, dan memimpin secara paling selaras dengan karunia dan pengalaman hidup saya. Dapat langsung ditempel ke halaman **UTS-4 — My SHAPE** dan dipakai sebagai acuan aksi 90 hari.
 
-Sumber [VIA assessment](StrengthsProfile-Armein-Langi.pdf)
+Sumber [VIA assessment](pn.pdf)
 ---
 
 ## 0) Ringkasan 1 Halaman
@@ -187,7 +187,7 @@ Reflektif-analitis, empatik-inklusif, visioner, pembelajar antusias, kolaboratif
 
 ## Narasi Diri (versi 90 detik)
 
-Saya Armein—insinyur, pendidik, dan penulis—yang percaya bahwa pengetahuan hanya bermakna bila melahirkan kasih dan keadilan. Kekuatan saya adalah **spiritualitas yang membumi, kreativitas rekayasa, dan kegembiraan belajar tanpa henti**, yang saya pakai untuk menyalakan semangat orang lain. 
+Saya Armein—insinyur, pendidik, dan penulis—yang percaya bahwa pengetahuan hanya bermakna bila melahirkan kasih dan keadilan. Kekuatan saya adalah **spiritualitas yang membumi, kreativitas rekayasa, dan kegembiraan belajar tanpa henti**, yang saya pakai untuk menyalakan semangat orang lain.
 
 Perjalanan saya ditempa oleh pengalaman yang mengajarkan **ketekunan**—mulai dari “berjalan dalam dingin” hingga tuntas menyelesaikan riset komputasi dan merancang sistem sejak awal karier. Keluarga dan komunitas menjadi ekosistem kasih tempat saya belajar bahwa **kebaikan lebih tinggi nilainya daripada sekadar pintar** dan **empati adalah kecerdasan tertinggi**. ([Armein Z. R. Langi in the City of Eden][3])
 
@@ -197,13 +197,13 @@ Ke depan, saya ingin terus **mendesain lingkungan belajar dan sistem cerdas** ya
 
 ## Narasi Diri (versi panjang, 3–5 paragraf)
 
-**Kini.** Saya mengabdikan diri sebagai insinyur-pendidik yang merancang pengalaman belajar dan sistem cerdas agar manusia bertumbuh utuh: cakap teknis, peka nurani, dan gembira belajar. Kekuatan saya—spiritualitas, kreativitas, suka belajar, keingintahuan, perspektif, keadilan, dan kepemimpinan—mengarahkan cara saya memimpin, mengajar, dan menulis. 
+**Kini.** Saya mengabdikan diri sebagai insinyur-pendidik yang merancang pengalaman belajar dan sistem cerdas agar manusia bertumbuh utuh: cakap teknis, peka nurani, dan gembira belajar. Kekuatan saya—spiritualitas, kreativitas, suka belajar, keingintahuan, perspektif, keadilan, dan kepemimpinan—mengarahkan cara saya memimpin, mengajar, dan menulis.
 
 **Dulu—titik balik.** Saya belajar bahwa langkah kecil yang konsisten mengalahkan rintangan besar: berjalan sendirian dalam dingin—secara harfiah dan metaforis—membentuk ketahanan batin. Di laboratorium, saya menuntaskan perangkat lunak **speech compression** dalam waktu singkat dan merancang **control unit** berbasis FPGA, lalu menulis paper pertama—momen yang mengajarkan disiplin, standar mutu, dan keberanian intelektual. ([Armein Z. R. Langi in the City of Eden][3])
 
 **Nilai yang saya pegang.** Saya memilih **kebaikan** di atas sekadar **kepintaran**, menempatkan **empati** sebagai kecerdasan tertinggi, dan mengejar **kebenaran sebagai realitas yang sesungguhnya**. Keluarga besar meneguhkan panggilan itu—rumah sebagai laboratorium kasih dan keadilan. ([Armein Z. R. Langi in the City of Eden][6])
 
-**Ke depan.** Dengan kerangka **My SHAPE**, saya terus menyelaraskan kekuatan, nilai, keterampilan, gaya kerja, dan pengalaman untuk merancang program, riset, dan karya tulis yang berdampak—agar teknologi menjadi pelayan kemanusiaan, dan setiap ruang belajar menjadi *City of Eden*: tempat sukacita, kasih, dan keunggulan bertemu. 
+**Ke depan.** Dengan kerangka **My SHAPE**, saya terus menyelaraskan kekuatan, nilai, keterampilan, gaya kerja, dan pengalaman untuk merancang program, riset, dan karya tulis yang berdampak—agar teknologi menjadi pelayan kemanusiaan, dan setiap ruang belajar menjadi *City of Eden*: tempat sukacita, kasih, dan keunggulan bertemu.
 
 
 
