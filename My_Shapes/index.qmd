@@ -7,132 +7,107 @@ Sumber [VIA assessment](pn.pdf)
 
 ## 0) Ringkasan 1 Halaman
 
-**Peran Inti:** Profesor & Elder — perancang ekosistem belajar-bernilai, pembimbing, dan pemimpin pelayanan komunitas.
-**Misi:** Mengangkat kualitas hidup melalui *smart engineering* dan *value-oriented education*, khususnya bagi lansia/keluarga/komunitas (GRACE), serta pelayanan gerejawi yang menumbuhkan kasih dan pengharapan.
-**Kekuatan Utama:** mengkonsep sistem utuh, menulis & mengajar, membangun jejaring, merancang rubrik/alat evaluasi, menggerakkan proyek lintas-disiplin.
-**Dampak yang Dituju:** karya, kurikulum, dan pelayanan yang menumbuhkan karakter, keterampilan, serta kesejahteraan berkeadilan.
+**Peran Inti:** Saya adalah seorang pelajar yang berusaha sebaik mungkin untuk berguna bagi orang-orang di sekitar saya. Sebagai anak pertama, saya diajarkan mandiri, yang membuat saya lebih independen.
+
+**Misi:** Membantu orang lain sebanyak mungkin dan berdampak seluas mungkin dalam bidang apapun.
+
+**Kekuatan Utama:** mengajar, mendengarkan, mencari penyelesaian masalah.
+
+**Dampak yang Dituju:** membuat hidup orang lain lebih mudah dengan bantuan saya.
 
 **Peta SHAPE (singkat):**
 
-* **S — Spiritual Gifts:** Teaching, Shepherding/Pastoring, Leadership, Wisdom/Discernment, Exhortation/Encouragement, Administration.
-* **H — Heart (Minat & Cinta Pelayanan):** pendidikan berorientasi nilai; kesejahteraan lansia & keluarga (GRACE); pembinaan iman; menulis kisah/novel/lirik; rekayasa cerdas & AI untuk kebaikan bersama; mentorship mahasiswa-dosen; penguatan jemaat.
-* **A — Abilities (Kemampuan):** perancangan sistem (PSKVE/TISE), kurikulum & rubrik, riset & publikasi, menulis multi-format (Quarto/LaTeX), pemrograman (Python/R/Prolog/Modelica), komunikasi publik, memimpin kolaborasi.
-* **P — Personality (Gaya Kepribadian Kerja):** strategis & reflektif, berorientasi visi & nilai, analitis-sistemik, kolaboratif, tenang dalam krisis, suka membangun standar & alat.
-* **E — Experiences (Pengalaman Kunci):** dosen & peneliti lintas proyek (GRACE, Smart Engineering, pendidikan), Elder & pengorganisasi jemaat, penulis kreatif, arsitek sistem pengetahuan (Obsidian/GitHub/Quarto), penggerak sarasehan & penggalangan dukungan.
+* **S — Spiritual Gifts:** Teaching, Appreciating.
+* **H — Heart (Minat & Cinta Pelayanan):** berbagi ilmu dan pengalaman kepada teman-teman dan orang yang membutuhkannya.
+* **A — Abilities (Kemampuan):** programming(Python, C, C++, Java, Quarto [novice]), simple medical treatment.
+* **P — Personality (Gaya Kepribadian Kerja):** strategis, adaptif.
+* **E — Experiences (Pengalaman Kunci):** Head of Operations di 2 event publik berbeda, tutor sebaya, medical staff di 3 event biasa, 1 event olahraga.
 
 ---
 
 ## 1) S — Spiritual Gifts (Karunia Rohani)
 
-* **Teaching & Wisdom/Discernment:** mengubah konsep kompleks menjadi peta belajar, rubrik, dan alat evaluasi yang memampukan.
-* **Shepherding/Pastoring & Exhortation:** membimbing individu/kelompok dengan empati, meneguhkan, dan memberi arah.
-* **Leadership & Administration:** merancang ekosistem (orang–proses–alat) dengan target berdampak dan terukur.
+* **Teaching:** menerjemahkan istilah-istilah sulit menjadi suatu konsep yang komperhensif untuk dimengerti semua orang.
 
-**Indikator Bukti:** silabus & rubrik (II-2100/EL2007), naskah pengajaran, bimbingan riset, modul/website kelas, program jemaat.
+* **Appreciating:** menyadari dan mengapresiasi keindahan, keterampilan, dan/atau kemahiran dalam berbagai hal di hidup ini.
+
+**Indikator Bukti:** testimoni teman-teman yang saya ajar (nonfisik).
 
 ---
 
 ## 2) H — Heart (Minat, Nilai, Kepedulian)
 
-* Pendidikan yang **mencipta nilai** (CPMK↔rubrik↔artefak nyata).
-* **GRACE**: kualitas hidup lansia/keluarga melalui sistem dukung cerdas & komunitas saling-melayani.
-* **Gereja & Komunitas**: penguatan iman, kesalingan, dan pelayanan kasih.
-* **Kreativitas naratif**: kisah/novel/lirik sebagai sarana edukasi & pengharapan.
-* **Rekayasa cerdas & AI** untuk kemaslahatan.
+Saya sangat senang jika ada orang yang merasa terbantu oleh saya, sehingga hal ini mendorong saya untuk terus berusaha berbagi ilmu.
 
-**Masalah yang ingin dipecahkan:** kesenjangan antara pengetahuan–karakter–aksi; pembelajaran kurang bermakna; layanan komunitas belum terukur dampaknya.
+
+**Masalah yang ingin dipecahkan:** kebingungan akan suatu konsep atau langkah yang perlu dilakukan.
 
 ---
 
 ## 3) A — Abilities (Kemampuan Andal)
 
-* **Perancangan sistem** (PSKVE/TISE), *value co‑creation*, finansial rekayasa, desain instrumen penilaian.
-* **Kurikulum & pedagogi**: CPMK↔rubrik↔tugas↔bukti; otomasi alur kerja (Python/Quarto/GitHub).
-* **Riset & penulisan ilmiah**; **karya kreatif** (prosa, lirik, ceramah/khotbah).
-* **Teknis**: Python, R, Prolog (ontologi), Modelica, Quarto/LaTeX, Obsidian, GitHub, Graphviz.
-* **Komunikasi & kepemimpinan**: orasi publik, fasilitasi sarasehan, negosiasi kolaborasi.
-
+* **Pengetahuan Medis**: P3K, obat-obatan umum, penanganan luka ringan, evakuasi, bantuan hidup dasar.
+* **Teknis**: Python, C, C++, Java, Quarto.
 ---
 
 ## 4) P — Personality (Gaya Kerja & Kolaborasi)
 
-* **Strategis‑sistemik** (melihat gambaran besar, memetakan bagian-bagian).
-* **Reflektif & nilai‑driven** (standar etis & mutu).
-* **Kolaboratif** (membangun jejaring, memberi ruang tumbuh).
-* **Tenang‑tangguh** (fokus hasil jangka panjang).
-* **Pembelajar & pembuat alat** (suka membuat template, rubrik, pipeline).
+* **Strategis** (merencanakan flow kerja untuk optimalisasi kinerja).
+* **Adaptif** (open to changes, menyesuaikan kebutuhan).
 
 ---
 
 ## 5) E — Experiences (Pengalaman Pembentuk)
 
-* **Akademik & Riset:** merancang mata kuliah, SLR AI & transformasi digital, proyek GRACE & Smart Engineering.
-* **Pelayanan & Organisasi:** Elder GKI, fasilitator sarasehan, penggalangan dukungan jemaat, pembinaan rohani.
-* **Kreasi Konten:** penulisan novel/khotbah/lirik; produksi materi ajar multi‑format.
-* **Infrastruktur Pengetahuan:** Obsidian–GitHub–Quarto, rubrik otomatis, bank soal.
-
-**Pelajaran Inti:** integrasi iman–ilmu–nilai; sistem yang baik melipatgandakan orang baik; narasi menggerakkan aksi.
+* **Teamwork & Organisasi:** bekerja sebagai staff dan kepala divisi di berbagai acara, baik sekolah maupun kampus.
+* **Technical:** proyek tugas besar semester 1 dan 2, pengalaman kepanitiaan relevan.
 
 ---
 
 ## 6) Piagam Diri (Self‑Charter)
 
-**Misi Hidup:** merancang dan menggerakkan ekosistem pembelajaran & pelayanan yang memerdekakan, bermakna, dan berkeadilan.
-**Nilai Inti:** kasih, integritas, kebijaksanaan, keberanian, mutu, keberpihakan pada yang lemah.
-**Peran Inti:** Perancang sistem nilai‑pembelajaran; Pembimbing & pengajar; Pemimpin pelayanan komunitas.
-**Kompas Keputusan:** (1) Dampak pada manusia; (2) Keselarasan nilai; (3) Keberlanjutan; (4) Kemampuan tim mengelola; (5) Bukti terukur.
-**Janji Pelayanan:** hadir dengan empati, mendengar, memberi arah praktis, membangun alat agar orang lain bertumbuh.
-**Batasan:** menolak proyek yang mengabaikan martabat manusia/etika; menjaga ritme kerja‑istirahat‑keluarga.
+**Misi Hidup:** Saya ingin menjadi pribadi yang berguna bagi banyak orang melalui pengetahuan, tindakan nyata, dan semangat belajar yang berkelanjutan. Saya percaya setiap langkah kecil untuk membantu orang lain adalah bagian dari karya besar untuk membuat hidup lebih baik.
+**Nilai Inti:** Keadilan, empati, kejujuran, tanggung jawab, dan rasa ingin tahu. Nilai-nilai ini menjadi dasar cara saya berpikir, bekerja, dan melayani orang lain.
+**Peran Inti:** Sebagai pengajar dan pembelajar sepanjang hayat, saya menerjemahkan hal-hal rumit menjadi sesuatu yang bisa dimengerti dan dipraktikkan. Sebagai rekan kerja dan pemimpin tim, saya berusaha menciptakan lingkungan yang adil, adaptif, dan mendukung pertumbuhan bersama.
+**Kompas Keputusan:** (1) Apakah keputusan ini membantu atau mempersulit orang lain?; (2) Apakah sesuai dengan nilai kejujuran dan keadilan?; (3) Apakah saya sudah menimbang dari berbagai sudut pandang dengan pikiran terbuka?; (4) Apakah langkah ini bisa memberi dampak positif jangka panjang?
+**Janji Pelayanan:** Saya berkomitmen untuk hadir dengan empati, mengajar dengan kesabaran, mendengar dengan hati terbuka, dan mencari solusi dengan logika yang seimbang. Saya ingin setiap interaksi dengan saya meninggalkan rasa tenang dan kejelasan bagi orang lain.
+**Batasan:** Saya menolak sikap tergesa-gesa dan keputusan tanpa pertimbangan. Saya juga berusaha menjaga keseimbangan antara tanggung jawab, istirahat, dan kehidupan pribadi agar tetap dapat melayani dengan tulus dan bijak.
 
 ---
 
 ## 7) Narasi 90 Detik (Elevator Pitch)
 
-“Saya seorang profesor dan elder yang merancang ekosistem belajar dan pelayanan berbasis nilai. Karunia saya mengajar, membimbing, dan memimpin dengan pendekatan sistem: mengubah konsep besar menjadi peta, rubrik, dan alat yang membuat orang bertumbuh. Hati saya pada pendidikan bermakna, kesejahteraan lansia dan keluarga, serta penguatan jemaat. Dengan pengalaman lintas riset, kurikulum, dan pelayanan, saya menghubungkan ilmu, iman, dan aksi. Target saya sederhana: menghadirkan karya dan komunitas yang saling menguatkan—di kelas, di gereja, dan di masyarakat—agar lebih banyak orang hidup berkualitas, berpengharapan, dan siap melayani.”
+“Saya adalah seorang pembelajar dan pengajar yang percaya bahwa pengetahuan baru akan bermakna jika membantu orang lain memahami dan berkembang.
+Sebagai anak pertama yang dibesarkan untuk mandiri, saya belajar mengambil keputusan dengan hati-hati dan bertanggung jawab; mendengar, menimbang, lalu bertindak adil. Di manapun itu, tujuan saya sama: membuat hidup orang lain sedikit lebih mudah, sedikit lebih jelas, dan sedikit lebih baik dengan kehadiran dan karya saya.”
 
 ---
 
 ## 8) Service‑Fit Map (Tempat Saya Paling Berdampak)
 
-* **Kampus:** perancangan kurikulum & rubrik; mentorship riset; otomasi pipeline belajar; kuliah & orasi.
-* **Jemaat:** pembinaan rohani & khotbah; fasilitasi sarasehan; program lansia/keluarga (GRACE).
-* **Riset‑Inovasi:** desain platform nilai‑ciptakan (PSKVE); publikasi; konsorsium kolaborasi.
-* **Kreasi Naratif:** kisah/lirik sebagai media edukasi & penguatan batin.
+* **Kampus:** Dengan kemampuan saya yang sekarang, kontribusi yang paling mudah dilakukan adalah di dalam lingkup kampus.
 
 ---
 
 ## 9) Evidences (Artefak & Tautan)
 
-> Ganti tanda [ ] dengan tautan/berkas Anda.
-
-* [ ] Silabus & rubrik II‑2100 / EL2007
-* [ ] Modul/website kelas & bank soal
-* [ ] Khotbah/renungan & materi sarasehan
-* [ ] Publikasi/SLR & proposal riset (GRACE, dsb.)
-* [ ] Novel/lirik & materi kreatif
-* [ ] Pipeline otomasi (Quarto/GitHub/Obsidian)
+* [<https://github.com/duskoid>] GitHub
+* [<https://github.com/duskoid/duskoid.github.io>] Otomasi Website ini (Quarto)
 
 ---
 
 ## 10) Rencana Aksi 90 Hari (SMART)
 
-1. **Rampungkan halaman UTS (KIPP/All‑About‑Me) end‑to‑end.**
-   *Outcome:* semua tugas berisi bukti + rubrik; *Due:* T‑14 hari.
-2. **Mentor 3 tim mahasiswa menyusun artefak bernilai.**
-   *Outcome:* 3 proyek dengan metrik dampak; *Due:* T‑45 hari.
-3. **Pilot GRACE micro‑service di jemaat.**
-   *Outcome:* 1 layanan kecil terukur (mis. pendampingan lansia); *Due:* T‑90 hari.
-4. **Publikasi ringkas (working paper) integrasi iman–ilmu–nilai.**
-   *Outcome:* 1 naskah pra‑cetak; *Due:* T‑75 hari.
+1. **Buat satu lagu orisinil untuk menggantikan My Song for You**
+   *Outcome:* audio, lirik, partitur (jika ada); *Due:* 60 hari.
 
 ---
 
 ## 11) SHAPE ↔ CPMK (Interpersonal & Public Communication)
 
-* **Self‑awareness & refleksi (CPMK‑S):** dituangkan pada Piagam Diri & Narasi 90 detik.
-* **Empati & komunikasi etis (CPMK‑E):** Shepherding/Exhortation → khotbah, mentoring, review berempati.
-* **Storytelling & presentasi (CPMK‑P):** Teaching + kreasi naratif → kuliah, cerita, lirik.
-* **Kolaborasi & kepemimpinan (CPMK‑K):** Leadership/Administration → proyek riset/komunitas terukur.
+* **Self‑awareness & refleksi (CPMK‑S):** Melalui Piagam Diri dan hasil VIA Strengths, saya memahami kekuatan inti saya — mengajar, mendengar, dan menimbang secara adil — serta menggunakannya untuk bertumbuh dan memperbaiki cara saya melayani dan berkolaborasi.
+* **Empati & komunikasi etis (CPMK‑E):** Karunia Appreciating dan Kindness mendorong saya untuk mendengar secara aktif, memahami kebutuhan orang lain, dan berkomunikasi dengan jujur tanpa menghakimi. Saya berusaha menciptakan ruang aman bagi orang untuk belajar dan berbagi.
+* **Storytelling & presentasi (CPMK‑P):** Sebagai pengajar dan pembelajar, saya mengubah konsep kompleks menjadi narasi yang mudah dipahami. Saya menikmati berbicara di depan orang banyak dengan pendekatan logis namun hangat, agar pesan dapat diterima dengan jelas dan berkesan.
+* **Kolaborasi & kepemimpinan (CPMK‑K):** Melalui pengalaman di berbagai tim dan kepanitiaan, saya belajar memimpin dengan keadilan dan keterbukaan. Saya berusaha menjaga keseimbangan antara hasil dan hubungan, serta memastikan setiap anggota merasa dihargai dan berkontribusi.
 
 ---
 
@@ -140,10 +115,10 @@ Sumber [VIA assessment](pn.pdf)
 
 | Kriteria                | Deskripsi                      | Skor (1–5) | Bukti |
 | ----------------------- | ------------------------------ | ---------: | ----- |
-| Kelengkapan SHAPE       | S‑H‑A‑P‑E jelas & terisi       |            |       |
-| Koherensi Piagam Diri   | misi‑nilai‑peran konsisten     |            |       |
-| Narasi 90 detik         | ringkas, kuat, mengundang aksi |            |       |
-| Evidence & Aksi 90 hari | tautan bukti & rencana SMART   |            |       |
+| Kelengkapan SHAPE       | S‑H‑A‑P‑E jelas & terisi       |  5         | Semua komponen (Spiritual Gifts, Heart, Abilities, Personality, Experiences) diisi lengkap, saling mendukung, dan ditulis dengan gaya personal. Tidak hanya deskriptif tapi juga reflektif.      |
+| Koherensi Piagam Diri   | misi‑nilai‑peran konsisten     |  5         | Piagam Diri (poin 6) menurunkan misi dan nilai langsung dari hasil SHAPE (poin 0–5). Konsisten antara “membantu orang lain” → “mengajar” → “keadilan & empati”. Alur logis dan emosional kuat.      |
+| Narasi 90 detik         | ringkas, kuat, mengundang aksi |  4.5       | Narasi 90 detik (poin 7) sangat jelas, menyentuh, dan menggambarkan identitas dengan baik. Bisa sedikit dipadatkan di bagian tengah untuk menjaga durasi ideal (<130 kata).      |
+| Evidence & Aksi 90 hari | tautan bukti & rencana SMART   |  4         | Rencana 90 hari (poin 10) konkret, realistis, dan berorientasi dampak. Akan sempurna jika sudah ditautkan ke artefak bukti nyata (silabus, proyek, atau dokumentasi mentoring).      |
 
 **Total (maks 20):** [ ]
 **Tingkat:** ☐ A (≥85%) ☐ B (70–84%) ☐ C (60–69%) ☐ D (50–59%) ☐ E (<50%)
